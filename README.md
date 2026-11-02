@@ -2,6 +2,9 @@
 
 A web application for managing a boarding house (kos): rooms, tenants, rent billing, expenses, and financial reports.
 
+**Live demo:**
+https://kos-management-system-ver.vercel.app/
+
 ## Features (planned)
 
 - Dashboard with occupancy and monthly income/expense overview

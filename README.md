@@ -15,3 +15,6 @@ A web application for managing a boarding house (kos): rooms, tenants, rent bill
 - [Next.js](https://nextjs.org/) (React + TypeScript)
 - [Supabase](https://supabase.com/) (PostgreSQL database + authentication)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+**Live demo:**
+https://kos-management-system-ver.vercel.app/

@@ -12,6 +12,6 @@ values
   ('Kamar 8', 1500000, 0, null),
   ('Kamar 9', 1300000, 0, null),
   ('Kamar 10', 1300000, 150000, null),
-  ('Kamar 11', 900000, 0, 'Non-AC'),
+  ('Kamar 11', 1200000, 0, null),
   ('Kamar 12', 1850000, 0, 'Kamar besar dengan bathtub')
 on conflict (name) do nothing;
